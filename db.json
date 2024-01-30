@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": "0b3055f4-b4bf-4cbf-8257-fdd1b19e82be",
+      "title": "Go to work",
+      "status": "important",
+      "date": "30.01.2024"
+    },
+    {
+      "id": "d8262550-c200-4019-94a4-53c4b4a2ef87",
+      "title": "Complete the project",
+      "status": "job",
+      "date": "30.01.2024"
+    },
+    {
+      "id": "51c1a2c0-4625-491c-8f1b-a8c72ce7a608",
+      "title": "Check e-mails",
+      "status": "Medium",
+      "date": "30.01.2024"
+    },
+    {
+      "id": "b73827ea-a9d7-4bac-b3c0-71323a59b485",
+      "title": "Play Tennis",
+      "status": "daily",
+      "date": "30.01.2024"
+    }
+  ]
+}
